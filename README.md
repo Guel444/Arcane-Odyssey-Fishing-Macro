@@ -37,20 +37,10 @@ It is designed to be simple to configure while remaining efficient.
 ## 🚀 Getting Started
 
 1. Download the latest version from the **Releases** page.
-2. Extract the ZIP file.
-3. Launch the executable.
-4. Configure your preferred settings.
-5. Start fishing.
+2. Launch the executable.
+3. Configure your preferred settings.
+4. Start fishing.
 
----
-
-## 📸 Screenshot
-
-<p align="center">
-<img src="screenshots/preview.png" width="700">
-</p>
-
-*(Replace this image with a screenshot of the application.)*
 
 ---
 

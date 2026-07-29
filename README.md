@@ -34,7 +34,7 @@ It is designed to be simple to configure while remaining efficient.
 
 ---
 
-## Recommended Settings
+## 💡 Recommended Settings
 
 For the best balance between performance and stability, use the following settings:
 

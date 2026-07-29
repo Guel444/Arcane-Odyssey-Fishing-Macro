@@ -74,7 +74,7 @@ Users are responsible for ensuring that their use of this software complies with
 ## 🛠️ Built With
 
 - Windows
-- AutoHotkey *(or replace with the language you used)*
+- Python
 
 ---
 

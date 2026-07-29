@@ -34,6 +34,17 @@ It is designed to be simple to configure while remaining efficient.
 
 ---
 
+## Recommended Settings
+
+For the best balance between performance and stability, use the following settings:
+
+- **Click Interval:** `60 ms`
+- **Anti-Freeze Timeout:** `30 seconds`
+
+These values are recommended for most users and may be adjusted if necessary.
+
+---
+
 ## 🚀 Getting Started
 
 1. Download the latest version from the **Releases** page.
